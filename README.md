@@ -1,7 +1,16 @@
-## Olá! Eu sou o Igor 👋
-Atualmente estou iniciando na área de programação, com foco no desenvolvimento backend.
-Sou apaixonado por tecnologia e estou sempre em busca de aprender algo novo e evoluir como profissional.
+## 👋 Olá! Eu sou o Igor  
 
-Seja bem-vindo ao meu GitHub! 🚀
+🎯 Iniciando minha trajetória na **programação**, com foco no **desenvolvimento backend**.  
+🚀 Apaixonado por tecnologia, estou sempre buscando aprender algo novo e evoluir como profissional.  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorHAN)](https://github.com/IgorHAN/github-readme-stats)
+💡 Seja muito bem-vindo ao meu GitHub! Fique à vontade para explorar meus projetos.  
+
+---
+
+<div align="center">
+
+  <img height="180em" style="border-radius: 10px;" src="https://github-readme-stats.vercel.app/api?username=IgorHAN&show_icons=true&theme=dark&border_radius=10" />
+
+  <img height="180em" style="border-radius: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorHAN&layout=compact&theme=dark&border_radius=10" />
+
+</div>
