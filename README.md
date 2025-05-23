@@ -4,3 +4,4 @@ Sou apaixonado por tecnologia e estou sempre em busca de aprender algo novo e ev
 
 Seja bem-vindo ao meu GitHub! 🚀
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorHAN)](https://github.com/IgorHAN/github-readme-stats)
