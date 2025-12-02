@@ -16,6 +16,5 @@
 
 ---
 <div align="center">
-  <img height="180em" style="border-radius: 10px;" src="https://github-readme-stats.vercel.app/api?username=IgorHAN&show_icons=true&theme=dark&border_radius=10" />
   <img height="180em" style="border-radius: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorHAN&layout=compact&theme=dark&border_radius=10" />
 </div>
